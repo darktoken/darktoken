@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About icebergcoin</source>
-        <translation>O icebergcoin</translation>
+        <source>About darktoken</source>
+        <translation>O darktoken</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;icebergcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;icebergcoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;darktoken&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;darktoken&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2014 Icebergcoin team
-Copyright © 2014 The icebergcoin developers</source>
+Copyright © 2014 darktoken team
+Copyright © 2014 The darktoken developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2014 Icebergcoin team
-Copyright © 2014 The icebergcoin developers</translation>
+Copyright © 2014 darktoken team
+Copyright © 2014 The darktoken developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your icebergcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše icebergcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your darktoken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše darktoken adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a icebergcoin address</source>
-        <translation>Podpísať správu, že vlastníte icebergcoin adresu</translation>
+        <source>Sign a message to prove you own a darktoken address</source>
+        <translation>Podpísať správu, že vlastníte darktoken adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified icebergcoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou icebergcoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified darktoken address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou darktoken adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>icebergcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>icebergcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>darktoken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>darktoken sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -309,9 +309,9 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
 </context>
 <context>
-    <name>IcebergcoinGUI</name>
+    <name>darktokenGUI</name>
     <message>
-        <location filename="../icebergcoingui.cpp" line="+282"/>
+        <location filename="../darktokengui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
         <translation>Podpísať &amp;správu...</translation>
     </message>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about icebergcoin</source>
-        <translation>Zobraziť informácie o icebergcoin</translation>
+        <source>Show information about darktoken</source>
+        <translation>Zobraziť informácie o darktoken</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a icebergcoin address</source>
-        <translation>Poslať mince na icebergcoin adresu</translation>
+        <source>Send coins to a darktoken address</source>
+        <translation>Poslať mince na darktoken adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for icebergcoin</source>
-        <translation>Upraviť možnosti konfigurácie pre icebergcoin</translation>
+        <source>Modify configuration options for darktoken</source>
+        <translation>Upraviť možnosti konfigurácie pre darktoken</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About icebergcoin</source>
-        <translation>&amp;O icebergcoin</translation>
+        <source>&amp;About darktoken</source>
+        <translation>&amp;O darktoken</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>icebergcoin client</source>
-        <translation>icebergcoin client</translation>
+        <source>darktoken client</source>
+        <translation>darktoken client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to icebergcoin network</source>
-        <translation><numerusform>%n aktívne spojenie s icebergcoin sieťov</numerusform><numerusform>%n aktívnych spojení s icebergcoin sieťov</numerusform><numerusform>%n aktívnych spojení s icebergcoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to darktoken network</source>
+        <translation><numerusform>%n aktívne spojenie s darktoken sieťov</numerusform><numerusform>%n aktívnych spojení s darktoken sieťov</numerusform><numerusform>%n aktívnych spojení s darktoken sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About icebergcoin card</source>
-        <translation>O icebergcoin karte</translation>
+        <source>About darktoken card</source>
+        <translation>O darktoken karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about icebergcoin card</source>
-        <translation>Zobraziť informácie o icebergcoin karte</translation>
+        <source>Show information about darktoken card</source>
+        <translation>Zobraziť informácie o darktoken karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid icebergcoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou icebergcoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid darktoken address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou darktoken adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,9 +727,9 @@ Adresa: %4</translation>
         <translation>Not staking</translation>
     </message>
     <message>
-        <location filename="../icebergcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. icebergcoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. icebergcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <location filename="../darktoken.cpp" line="+109"/>
+        <source>A fatal error occurred. darktoken can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. darktoken už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid icebergcoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou icebergcoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid darktoken address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou darktoken adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>icebergcoin-Qt</source>
-        <translation>icebergcoin-Qt</translation>
+        <source>darktoken-Qt</source>
+        <translation>darktoken-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start icebergcoin after logging in to the system.</source>
-        <translation>Automaticky spustiť icebergcoin po prihlásení sa do systému.</translation>
+        <source>Automatically start darktoken after logging in to the system.</source>
+        <translation>Automaticky spustiť darktoken po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start icebergcoin on system login</source>
-        <translation>&amp;Spustiť icebergcoin pri prihlásení do systému</translation>
+        <source>&amp;Start darktoken on system login</source>
+        <translation>&amp;Spustiť darktoken pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the icebergcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta icebergcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the darktoken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta darktoken na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the icebergcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti icebergcoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the darktoken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti darktoken cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting icebergcoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní icebergcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting darktoken.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní darktoken.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show icebergcoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť icebergcoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show darktoken addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť darktoken adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting icebergcoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní icebergcoin.</translation>
+        <source>This setting will take effect after restarting darktoken.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní darktoken.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the icebergcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou icebergcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the darktoken network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou darktoken po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the icebergcoin-Qt help message to get a list with possible icebergcoin command-line options.</source>
-        <translation>Zobraziť icebergcoin-Qt nápovedu k získaniu zoznamu pre možnosti icebergcoin príkazového riadku.</translation>
+        <source>Show the darktoken-Qt help message to get a list with possible darktoken command-line options.</source>
+        <translation>Zobraziť darktoken-Qt nápovedu k získaniu zoznamu pre možnosti darktoken príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>icebergcoin - Debug window</source>
-        <translation>icebergcoin - Ladiace okno</translation>
+        <source>darktoken - Debug window</source>
+        <translation>darktoken - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>icebergcoin Core</source>
-        <translation>icebergcoin Core</translation>
+        <source>darktoken Core</source>
+        <translation>darktoken Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the icebergcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte icebergcoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the darktoken debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte darktoken ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the icebergcoin RPC console.</source>
-        <translation>Vitajte v icebergcoin RPC konzole.</translation>
+        <source>Welcome to the darktoken RPC console.</source>
+        <translation>Vitajte v darktoken RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1632,7 +1632,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Poslať Icebergcoins</translation>
+        <translation>Poslať darktokens</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte icebergcoin adresu (napr. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte darktoken adresu (napr. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1816,7 +1816,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Potvrdiť odoslanie icebergcoins</translation>
+        <translation>Potvrdiť odoslanie darktokens</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid icebergcoin address</source>
-        <translation>VAROVANIE: Neplatná icebergcoin adresa</translation>
+        <source>WARNING: Invalid darktoken address</source>
+        <translation>VAROVANIE: Neplatná darktoken adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1909,8 +1909,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa pre poslanie platby (napr. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa pre poslanie platby (napr. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadaj a icebergcoin addresu (napr. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadaj a darktoken addresu (napr. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1963,8 +1963,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa na podpísanie správy (napr. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa na podpísanie správy (napr. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this icebergcoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto icebergcoin adresu</translation>
+        <source>Sign the message to prove you own this darktoken address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto darktoken adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,13 +2027,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa správy bola podpísaná (napr. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa správy bola podpísaná (napr. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified icebergcoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou icebergcoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified darktoken address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou darktoken adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte icebergcoin adresu (napr. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte darktoken adresu (napr. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter icebergcoin signature</source>
-        <translation>Zadajte icebergcoin podpis</translation>
+        <source>Enter darktoken signature</source>
+        <translation>Zadajte darktoken podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2621,11 +2621,11 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
 </context>
 <context>
-    <name>icebergcoin-core</name>
+    <name>darktoken-core</name>
     <message>
-        <location filename="../icebergcoinstrings.cpp" line="+33"/>
-        <source>icebergcoin version</source>
-        <translation>icebergcoin verzia</translation>
+        <location filename="../darktokenstrings.cpp" line="+33"/>
+        <source>darktoken version</source>
+        <translation>darktoken verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or icebergcoind</source>
-        <translation>Pošli príkaz na -server alebo icebergcoind</translation>
+        <source>Send command to -server or darktokend</source>
+        <translation>Pošli príkaz na -server alebo darktokend</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: icebergcoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: icebergcoin.conf)</translation>
+        <source>Specify configuration file (default: darktoken.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: darktoken.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: icebergcoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: icebergcoind.pid)</translation>
+        <source>Specify pid file (default: darktokend.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: darktokend.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong icebergcoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny icebergcoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong darktoken will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny darktoken nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2899,8 +2899,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+35"/>
-        <source>SSL options: (see the Icebergcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL možnosť: (pozrite Icebergcoin Wiki pre návod na nastavenie SSL)</translation>
+        <source>SSL options: (see the darktoken Wiki for SSL setup instructions)</source>
+        <translation>SSL možnosť: (pozrite darktoken Wiki pre návod na nastavenie SSL)</translation>
     </message>
     <message>
         <location line="-74"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=icebergcoinrpc
+rpcuser=darktokenrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;darktoken Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=icebergcoinrpc
+rpcuser=darktokenrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;darktoken Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  icebergcoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. icebergcoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  darktoken is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. darktoken už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of icebergcoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu icebergcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of darktoken</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu darktoken</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart icebergcoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte icebergcoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart darktoken to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte darktoken k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. icebergcoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. icebergcoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. darktoken is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. darktoken je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

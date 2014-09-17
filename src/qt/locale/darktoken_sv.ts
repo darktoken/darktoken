@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About icebergcoin</source>
-        <translation>Vad du behöver veta om icebergcoin</translation>
+        <source>About darktoken</source>
+        <translation>Vad du behöver veta om darktoken</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;icebergcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;icebergcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;darktoken&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;darktoken&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2014 Icebergcoin team
-Copyright © 2014 The icebergcoin developers</source>
+Copyright © 2014 darktoken team
+Copyright © 2014 The darktoken developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2014 Icebergcoin team
-Copyright © 2014 The icebergcoin developers</translation>
+Copyright © 2014 darktoken team
+Copyright © 2014 The darktoken developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your icebergcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina icebergcoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your darktoken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina darktoken adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a icebergcoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger icebergcoin adressen</translation>
+        <source>Sign a message to prove you own a darktoken address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger darktoken adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified icebergcoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik icebergcoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified darktoken address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik darktoken adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>icebergcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>icebergcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>darktoken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>darktoken plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -310,9 +310,9 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
 </context>
 <context>
-    <name>IcebergcoinGUI</name>
+    <name>darktokenGUI</name>
     <message>
-        <location filename="../icebergcoingui.cpp" line="+282"/>
+        <location filename="../darktokengui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
         <translation>Signera &amp;meddelande...</translation>
     </message>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about icebergcoin</source>
-        <translation>Visa information om icebergcoin</translation>
+        <source>Show information about darktoken</source>
+        <translation>Visa information om darktoken</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a icebergcoin address</source>
-        <translation>Skicka coins till en icebergcoin adress</translation>
+        <source>Send coins to a darktoken address</source>
+        <translation>Skicka coins till en darktoken adress</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for icebergcoin</source>
-        <translation>Modifiera konfigurations-alternativ för icebergcoin</translation>
+        <source>Modify configuration options for darktoken</source>
+        <translation>Modifiera konfigurations-alternativ för darktoken</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-202"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About icebergcoin</source>
-        <translation>&amp;Om icebergcoin</translation>
+        <source>&amp;About darktoken</source>
+        <translation>&amp;Om darktoken</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>icebergcoin client</source>
-        <translation>icebergcoin klient</translation>
+        <source>darktoken client</source>
+        <translation>darktoken klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to icebergcoin network</source>
-        <translation><numerusform>%n aktiv anslutning till icebergcoin nätverket</numerusform><numerusform>%n aktiva anslutning till icebergcoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to darktoken network</source>
+        <translation><numerusform>%n aktiv anslutning till darktoken nätverket</numerusform><numerusform>%n aktiva anslutning till darktoken nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -585,13 +585,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-312"/>
-        <source>About icebergcoin card</source>
-        <translation>Om icebergcoin kortet</translation>
+        <source>About darktoken card</source>
+        <translation>Om darktoken kortet</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about icebergcoin card</source>
-        <translation>Via information om icebergcoin kortet</translation>
+        <source>Show information about darktoken card</source>
+        <translation>Via information om darktoken kortet</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -670,8 +670,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid icebergcoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig icebergcoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid darktoken address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig darktoken adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,9 +729,9 @@ Adress: %4
         <translation>Ingen staking</translation>
     </message>
     <message>
-        <location filename="../icebergcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. icebergcoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. icebergcoin kan inte fortsätta och stänger programmet.</translation>
+        <location filename="../darktoken.cpp" line="+109"/>
+        <source>A fatal error occurred. darktoken can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. darktoken kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1025,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna icebergcoin-adress</translation>
+        <translation>Namnet som kopplats till denna darktoken-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1064,8 +1064,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid icebergcoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig icebergcoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid darktoken address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig darktoken adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1083,8 +1083,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>icebergcoin-Qt</source>
-        <translation>icebergcoin-Qt</translation>
+        <source>darktoken-Qt</source>
+        <translation>darktoken-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1156,13 +1156,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start icebergcoin after logging in to the system.</source>
-        <translation>Starta icebergcoin automatiskt vid inloggning.</translation>
+        <source>Automatically start darktoken after logging in to the system.</source>
+        <translation>Starta darktoken automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start icebergcoin on system login</source>
-        <translation>&amp;Starta icebergcoin vid inloggning</translation>
+        <source>&amp;Start darktoken on system login</source>
+        <translation>&amp;Starta darktoken vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the icebergcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt icebergcoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the darktoken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt darktoken klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1191,8 +1191,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the icebergcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till icebergcoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the darktoken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till darktoken nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1266,8 +1266,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting icebergcoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av icebergcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting darktoken.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av darktoken.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1281,8 +1281,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show icebergcoin addresses in the transaction list or not.</source>
-        <translation>Om icebergcoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show darktoken addresses in the transaction list or not.</source>
+        <translation>Om darktoken adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1328,8 +1328,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting icebergcoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av icebergcoin.</translation>
+        <source>This setting will take effect after restarting darktoken.</source>
+        <translation>Inställningen börjar gälla efter omstart av darktoken.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1347,8 +1347,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the icebergcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med icebergcoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the darktoken network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med darktoken nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1563,8 +1563,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the icebergcoin-Qt help message to get a list with possible icebergcoin command-line options.</source>
-        <translation>Visa icebergcoin-Qt hjälp meddelandet för att få en lista över möjliga icebergcoin kommandoradsalternativ.</translation>
+        <source>Show the darktoken-Qt help message to get a list with possible darktoken command-line options.</source>
+        <translation>Visa darktoken-Qt hjälp meddelandet för att få en lista över möjliga darktoken kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>icebergcoin - Debug window</source>
-        <translation>icebergcoin - Felsökningsfönster</translation>
+        <source>darktoken - Debug window</source>
+        <translation>darktoken - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>icebergcoin Core</source>
-        <translation>icebergcoin Core</translation>
+        <source>darktoken Core</source>
+        <translation>darktoken Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the icebergcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna icebergcoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the darktoken debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna darktoken felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the icebergcoin RPC console.</source>
-        <translation>Välkommen till icebergcoin RPC konsoll.</translation>
+        <source>Welcome to the darktoken RPC console.</source>
+        <translation>Välkommen till darktoken RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1767,8 +1767,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Fyll i en icebergcoin adress (t.ex. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en darktoken adress (t.ex. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1867,8 +1867,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid icebergcoin address</source>
-        <translation>VARNING: Ogiltig icebergcoin adress</translation>
+        <source>WARNING: Invalid darktoken address</source>
+        <translation>VARNING: Ogiltig darktoken adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1911,8 +1911,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen att skicka betalningen till  (t.ex. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen att skicka betalningen till  (t.ex. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1941,8 +1941,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Fyll i en icebergcoin adress (t.ex. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en darktoken adress (t.ex. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1965,8 +1965,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen att signera meddelandet med (t.ex. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen att signera meddelandet med (t.ex. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2002,8 +2002,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this icebergcoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna icebergcoin adressen</translation>
+        <source>Sign the message to prove you own this darktoken address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna darktoken adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2029,13 +2029,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen meddelandet var signerad med (t.ex. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen meddelandet var signerad med (t.ex. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified icebergcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna icebergcoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified darktoken address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna darktoken adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Fyll i en icebergcoin adress (t.ex. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en darktoken adress (t.ex. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2055,8 +2055,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter icebergcoin signature</source>
-        <translation>Fyll i icebergcoin signatur</translation>
+        <source>Enter darktoken signature</source>
+        <translation>Fyll i darktoken signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,11 +2623,11 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
 </context>
 <context>
-    <name>icebergcoin-core</name>
+    <name>darktoken-core</name>
     <message>
-        <location filename="../icebergcoinstrings.cpp" line="+33"/>
-        <source>icebergcoin version</source>
-        <translation>icebergcoin version</translation>
+        <location filename="../darktokenstrings.cpp" line="+33"/>
+        <source>darktoken version</source>
+        <translation>darktoken version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,8 +2636,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or icebergcoind</source>
-        <translation>Skicka kommando till -server eller icebergcoind</translation>
+        <source>Send command to -server or darktokend</source>
+        <translation>Skicka kommando till -server eller darktokend</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2656,13 +2656,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: icebergcoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: icebergcoin.conf)</translation>
+        <source>Specify configuration file (default: darktoken.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: darktoken.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: icebergcoind.pid)</source>
-        <translation>Ange pid filen (standard icebergcoind.pid)</translation>
+        <source>Specify pid file (default: darktokend.pid)</source>
+        <translation>Ange pid filen (standard darktokend.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2811,8 +2811,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong icebergcoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. icebergcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong darktoken will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. darktoken kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2901,8 +2901,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+35"/>
-        <source>SSL options: (see the Icebergcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Icebergcoin-wikin för SSL-setup instruktioner)</translation>
+        <source>SSL options: (see the darktoken Wiki for SSL setup instructions)</source>
+        <translation>SSL-inställningar: (se darktoken-wikin för SSL-setup instruktioner)</translation>
     </message>
     <message>
         <location line="-74"/>
@@ -3001,24 +3001,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=icebergcoinrpc
+rpcuser=darktokenrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;darktoken Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=icebergcoinrpc
+rpcuser=darktokenrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;icebergcoin Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;darktoken Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3143,13 +3143,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;icebergcoin Varning&quot; adm
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  icebergcoin is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. icebergcoin är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  darktoken is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. darktoken är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3183,13 +3183,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;icebergcoin Varning&quot; adm
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of icebergcoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av icebergcoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of darktoken</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av darktoken krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart icebergcoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om icebergcoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart darktoken to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om darktoken för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3244,7 +3244,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;icebergcoin Varning&quot; adm
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med icebergcoins</translation>
+        <translation>Otillräckligt med darktokens</translation>
     </message>
     <message>
         <location line="-34"/>
@@ -3258,8 +3258,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;icebergcoin Varning&quot; adm
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. icebergcoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. icebergcoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. darktoken is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. darktoken är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

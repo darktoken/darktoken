@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About icebergcoin</source>
-        <translation>О icebergcoin</translation>
+        <source>About darktoken</source>
+        <translation>О darktoken</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;icebergcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;icebergcoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;darktoken&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;darktoken&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2014 Icebergcoin team
-Copyright © 2014 The icebergcoin developers</source>
-        <translation>Все права защищены © 2009-2014 Разработчики Icebergcoin
-Все права защищены © 2012-2014 Разработчики IcebergCoin
-Все права защищены © 2014 Разработчики icebergcoin</translation>
+Copyright © 2014 darktoken team
+Copyright © 2014 The darktoken developers</source>
+        <translation>Все права защищены © 2009-2014 Разработчики darktoken
+Все права защищены © 2012-2014 Разработчики darktoken
+Все права защищены © 2014 Разработчики darktoken</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your icebergcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your darktoken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a icebergcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом icebergcoin</translation>
+        <source>Sign a message to prove you own a darktoken address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом darktoken</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified icebergcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом icebergcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified darktoken address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом darktoken</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>icebergcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>darktoken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -309,9 +309,9 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>IcebergcoinGUI</name>
+    <name>darktokenGUI</name>
     <message>
-        <location filename="../icebergcoingui.cpp" line="+282"/>
+        <location filename="../darktokengui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
         <translation>&amp;Подписать сообщение</translation>
     </message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about icebergcoin</source>
-        <translation>Показать информацию о icebergcoin&apos;е</translation>
+        <source>Show information about darktoken</source>
+        <translation>Показать информацию о darktoken&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a icebergcoin address</source>
-        <translation>Отправить монеты на указанный адрес icebergcoin</translation>
+        <source>Send coins to a darktoken address</source>
+        <translation>Отправить монеты на указанный адрес darktoken</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for icebergcoin</source>
-        <translation>Изменить параметры конфигурации icebergcoin</translation>
+        <source>Modify configuration options for darktoken</source>
+        <translation>Изменить параметры конфигурации darktoken</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About icebergcoin</source>
-        <translation>&amp;О icebergcoin</translation>
+        <source>&amp;About darktoken</source>
+        <translation>&amp;О darktoken</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>icebergcoin client</source>
-        <translation>icebergcoin клиент</translation>
+        <source>darktoken client</source>
+        <translation>darktoken клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to icebergcoin network</source>
+        <source>%n active connection(s) to darktoken network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About icebergcoin card</source>
-        <translation>О карте icebergcoin</translation>
+        <source>About darktoken card</source>
+        <translation>О карте darktoken</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about icebergcoin card</source>
+        <source>Show information about darktoken card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,8 +669,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid icebergcoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом icebergcoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid darktoken address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом darktoken или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,9 +728,9 @@ Address: %4
         <translation>Не участвуем в доле</translation>
     </message>
     <message>
-        <location filename="../icebergcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. icebergcoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. icebergcoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <location filename="../darktoken.cpp" line="+109"/>
+        <source>A fatal error occurred. darktoken can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. darktoken не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1049,8 +1049,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid icebergcoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным icebergcoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid darktoken address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным darktoken-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1068,8 +1068,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>icebergcoin-Qt</source>
-        <translation>icebergcoin-Qt</translation>
+        <source>darktoken-Qt</source>
+        <translation>darktoken-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1141,13 +1141,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start icebergcoin after logging in to the system.</source>
-        <translation>Автоматически запускать icebergcoin после входа в систему</translation>
+        <source>Automatically start darktoken after logging in to the system.</source>
+        <translation>Автоматически запускать darktoken после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start icebergcoin on system login</source>
-        <translation>&amp;Запускать icebergcoin при входе в систему</translation>
+        <source>&amp;Start darktoken on system login</source>
+        <translation>&amp;Запускать darktoken при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the icebergcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для icebergcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the darktoken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для darktoken-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1176,8 +1176,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the icebergcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети icebergcoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the darktoken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети darktoken через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1251,8 +1251,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting icebergcoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска icebergcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting darktoken.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска darktoken.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1266,8 +1266,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show icebergcoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса icebergcoin в списке транзакций.</translation>
+        <source>Whether to show darktoken addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса darktoken в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1313,8 +1313,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting icebergcoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска icebergcoin</translation>
+        <source>This setting will take effect after restarting darktoken.</source>
+        <translation>Эта настройка вступит в силу после перезапуска darktoken</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1332,8 +1332,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the icebergcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью icebergcoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the darktoken network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью darktoken после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1548,8 +1548,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the icebergcoin-Qt help message to get a list with possible icebergcoin command-line options.</source>
-        <translation>Показать помощь по icebergcoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the darktoken-Qt help message to get a list with possible darktoken command-line options.</source>
+        <translation>Показать помощь по darktoken-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,13 +1568,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>icebergcoin - Debug window</source>
-        <translation>icebergcoin - Окно отладки</translation>
+        <source>darktoken - Debug window</source>
+        <translation>darktoken - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>icebergcoin Core</source>
-        <translation>Ядро icebergcoin</translation>
+        <source>darktoken Core</source>
+        <translation>Ядро darktoken</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the icebergcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл icebergcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the darktoken debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл darktoken из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1593,8 +1593,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the icebergcoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль icebergcoin.</translation>
+        <source>Welcome to the darktoken RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль darktoken.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1752,8 +1752,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите icebergcoin-адрес (например icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите darktoken-адрес (например darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1852,7 +1852,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid icebergcoin address</source>
+        <source>WARNING: Invalid darktoken address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1896,8 +1896,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес получателя платежа (например icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес получателя платежа (например darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1926,8 +1926,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите icebergcoin-адрес (например icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите darktoken-адрес (например darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1950,8 +1950,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1987,8 +1987,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this icebergcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом icebergcoin</translation>
+        <source>Sign the message to prove you own this darktoken address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом darktoken</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,13 +2014,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified icebergcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом icebergcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified darktoken address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом darktoken</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите адрес icebergcoin (напр. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите адрес darktoken (напр. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2040,8 +2040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter icebergcoin signature</source>
-        <translation>Введите подпись icebergcoin</translation>
+        <source>Enter darktoken signature</source>
+        <translation>Введите подпись darktoken</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2608,10 +2608,10 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
 </context>
 <context>
-    <name>icebergcoin-core</name>
+    <name>darktoken-core</name>
     <message>
-        <location filename="../icebergcoinstrings.cpp" line="+33"/>
-        <source>icebergcoin version</source>
+        <location filename="../darktokenstrings.cpp" line="+33"/>
+        <source>darktoken version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2621,8 +2621,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or icebergcoind</source>
-        <translation>Отправить команду на -server или icebergcoind</translation>
+        <source>Send command to -server or darktokend</source>
+        <translation>Отправить команду на -server или darktokend</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2642,13 +2642,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: icebergcoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: icebergcoin.conf)</translation>
+        <source>Specify configuration file (default: darktoken.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: darktoken.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: icebergcoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: icebergcoind.pid)</translation>
+        <source>Specify pid file (default: darktokend.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: darktokend.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong icebergcoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, icebergcoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong darktoken will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, darktoken будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2887,9 +2887,9 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+35"/>
-        <source>SSL options: (see the Icebergcoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the darktoken Wiki for SSL setup instructions)</source>
         <translation>
-Параметры SSL: (см. Icebergcoin Wiki для инструкций по настройке SSL)</translation>
+Параметры SSL: (см. darktoken Wiki для инструкций по настройке SSL)</translation>
     </message>
     <message>
         <location line="-74"/>
@@ -2987,13 +2987,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=icebergcoinrpc
+rpcuser=darktokenrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;darktoken Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3119,13 +3119,13 @@ for example: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  icebergcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  darktoken is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of icebergcoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию icebergcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of darktoken</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию darktoken</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart icebergcoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите icebergcoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart darktoken to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите darktoken для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,8 +3234,8 @@ for example: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. icebergcoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, icebergcoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. darktoken is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, darktoken уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

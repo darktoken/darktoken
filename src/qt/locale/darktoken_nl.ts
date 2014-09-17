@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About icebergcoin</source>
-        <translation>Over icebergcoin</translation>
+        <source>About darktoken</source>
+        <translation>Over darktoken</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;icebergcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;icebergcoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;darktoken&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;darktoken&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2014 Icebergcoin team
-Copyright © 2014 The icebergcoin developers</source>
-        <translation>Copyright © 2009-2014 De Icebergcoin ontwikkelaars
-Copyright © 2012-2014 De IcebergCoin ontwikkelaars
-Copyright © 2014 De icebergcoin ontwikkelaars</translation>
+Copyright © 2014 darktoken team
+Copyright © 2014 The darktoken developers</source>
+        <translation>Copyright © 2009-2014 De darktoken ontwikkelaars
+Copyright © 2012-2014 De darktoken ontwikkelaars
+Copyright © 2014 De darktoken ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your icebergcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou icebergcoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your darktoken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou darktoken adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a icebergcoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een icebergcoin adres bezit.</translation>
+        <source>Sign a message to prove you own a darktoken address</source>
+        <translation>Teken een bericht om te bewijzen dat je een darktoken adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified icebergcoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek icebergcoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified darktoken address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek darktoken adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>icebergcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>icebergcoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>darktoken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>darktoken zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -309,9 +309,9 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
 </context>
 <context>
-    <name>IcebergcoinGUI</name>
+    <name>darktokenGUI</name>
     <message>
-        <location filename="../icebergcoingui.cpp" line="+282"/>
+        <location filename="../darktokengui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
         <translation>&amp;Onderteken bericht...</translation>
     </message>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about icebergcoin</source>
-        <translation>Toon informatie over icebergcoin</translation>
+        <source>Show information about darktoken</source>
+        <translation>Toon informatie over darktoken</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a icebergcoin address</source>
-        <translation>Verstuur munten naar een icebergcoin adres</translation>
+        <source>Send coins to a darktoken address</source>
+        <translation>Verstuur munten naar een darktoken adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for icebergcoin</source>
-        <translation>Verander configuratie opties voor icebergcoin</translation>
+        <source>Modify configuration options for darktoken</source>
+        <translation>Verander configuratie opties voor darktoken</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-202"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About icebergcoin</source>
-        <translation>&amp;Over icebergcoin</translation>
+        <source>&amp;About darktoken</source>
+        <translation>&amp;Over darktoken</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>icebergcoin client</source>
-        <translation>icebergcoin client</translation>
+        <source>darktoken client</source>
+        <translation>darktoken client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to icebergcoin network</source>
-        <translation><numerusform>%n actieve verbinding naar icebergcoin netwerk</numerusform><numerusform>%n actieve verbindingen naar icebergcoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to darktoken network</source>
+        <translation><numerusform>%n actieve verbinding naar darktoken netwerk</numerusform><numerusform>%n actieve verbindingen naar darktoken netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About icebergcoin card</source>
-        <translation>Over icebergcoin card</translation>
+        <source>About darktoken card</source>
+        <translation>Over darktoken card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about icebergcoin card</source>
-        <translation>Toon informatie over icebergcoin card</translation>
+        <source>Show information about darktoken card</source>
+        <translation>Toon informatie over darktoken card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid icebergcoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig icebergcoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid darktoken address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig darktoken adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,9 +728,9 @@ Adres: %4
         <translation>Niet aan het staken.</translation>
     </message>
     <message>
-        <location filename="../icebergcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. icebergcoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . icebergcoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <location filename="../darktoken.cpp" line="+109"/>
+        <source>A fatal error occurred. darktoken can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . darktoken kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid icebergcoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig icebergcoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid darktoken address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig darktoken adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>icebergcoin-Qt</source>
-        <translation>icebergcoin-Qt</translation>
+        <source>darktoken-Qt</source>
+        <translation>darktoken-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start icebergcoin after logging in to the system.</source>
-        <translation>Automatisch starten van icebergcoin na inloggen van het systeem.</translation>
+        <source>Automatically start darktoken after logging in to the system.</source>
+        <translation>Automatisch starten van darktoken na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start icebergcoin on system login</source>
-        <translation>&amp;Start icebergcoin bij systeem aanmelding</translation>
+        <source>&amp;Start darktoken on system login</source>
+        <translation>&amp;Start darktoken bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the icebergcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De icebergcoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the darktoken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De darktoken client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the icebergcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het icebergcoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the darktoken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het darktoken netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting icebergcoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na icebergcoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting darktoken.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na darktoken opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show icebergcoin addresses in the transaction list or not.</source>
-        <translation>icebergcoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show darktoken addresses in the transaction list or not.</source>
+        <translation>darktoken adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting icebergcoin.</source>
-        <translation>Deze instelling word toegepast na een restart van icebergcoin.</translation>
+        <source>This setting will take effect after restarting darktoken.</source>
+        <translation>Deze instelling word toegepast na een restart van darktoken.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the icebergcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het icebergcoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the darktoken network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het darktoken netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the icebergcoin-Qt help message to get a list with possible icebergcoin command-line options.</source>
-        <translation>Laat het icebergcoin-QT help bericht zien om een lijst te krijgen met mogelijke icebergcoin command-regel opties.</translation>
+        <source>Show the darktoken-Qt help message to get a list with possible darktoken command-line options.</source>
+        <translation>Laat het darktoken-QT help bericht zien om een lijst te krijgen met mogelijke darktoken command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>icebergcoin - Debug window</source>
-        <translation>icebergcoin - Debugscherm</translation>
+        <source>darktoken - Debug window</source>
+        <translation>darktoken - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>icebergcoin Core</source>
-        <translation>icebergcoin Kern</translation>
+        <source>darktoken Core</source>
+        <translation>darktoken Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the icebergcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het icebergcoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the darktoken debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het darktoken debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the icebergcoin RPC console.</source>
-        <translation>Welkom bij de icebergcoin RPC console.</translation>
+        <source>Welcome to the darktoken RPC console.</source>
+        <translation>Welkom bij de darktoken RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een icebergcoin adres in (bijv. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een darktoken adres in (bijv. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid icebergcoin address</source>
-        <translation>WAARSCHUWING: Ongeldig icebergcoin adres</translation>
+        <source>WARNING: Invalid darktoken address</source>
+        <translation>WAARSCHUWING: Ongeldig darktoken adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om naar te betalen (bijv. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om naar te betalen (bijv. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een icebergcoin adres in (bijv. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een darktoken adres in (bijv. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
+        <source>The address to sign the message with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this icebergcoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een icebergcoin adres bezit.</translation>
+        <source>Sign the message to prove you own this darktoken address</source>
+        <translation>Teken een bericht om te bewijzen dat je een darktoken adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified icebergcoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek icebergcoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified darktoken address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek darktoken adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a icebergcoin address (e.g. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een icebergcoin adres in (bijv. icebergcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a darktoken address (e.g. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een darktoken adres in (bijv. darktokenfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter icebergcoin signature</source>
-        <translation>Voer icebergcoin handtekening in</translation>
+        <source>Enter darktoken signature</source>
+        <translation>Voer darktoken handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2622,11 +2622,11 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
 </context>
 <context>
-    <name>icebergcoin-core</name>
+    <name>darktoken-core</name>
     <message>
-        <location filename="../icebergcoinstrings.cpp" line="+33"/>
-        <source>icebergcoin version</source>
-        <translation>icebergcoin versie</translation>
+        <location filename="../darktokenstrings.cpp" line="+33"/>
+        <source>darktoken version</source>
+        <translation>darktoken versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or icebergcoind</source>
-        <translation>Verstuur commando naar -server of icebergcoind</translation>
+        <source>Send command to -server or darktokend</source>
+        <translation>Verstuur commando naar -server of darktokend</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: icebergcoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: icebergcoin.conf)</translation>
+        <source>Specify configuration file (default: darktoken.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: darktoken.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: icebergcoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: icebergcoin.conf)</translation>
+        <source>Specify pid file (default: darktokend.pid)</source>
+        <translation>Selecteer pid bestand (standaard: darktoken.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong icebergcoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is icebergcoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong darktoken will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is darktoken zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2900,8 +2900,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+35"/>
-        <source>SSL options: (see the Icebergcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Icebergcoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the darktoken Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de darktoken wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="-74"/>
@@ -3000,24 +3000,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=icebergcoinrpc
+rpcuser=darktokenrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;darktoken Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = icebergcoinrpc 
+rpcuser = darktokenrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;icebergcoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;darktoken Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;icebergcoin Alert&quot; adm
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  icebergcoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. icebergcoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  darktoken is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. darktoken wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>icebergcoin</source>
-        <translation>icebergcoin</translation>
+        <source>darktoken</source>
+        <translation>darktoken</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;icebergcoin Alert&quot; adm
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of icebergcoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van icebergcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of darktoken</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van darktoken</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart icebergcoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart icebergcoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart darktoken to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart darktoken om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;icebergcoin Alert&quot; adm
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. icebergcoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. icebergcoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. darktoken is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. darktoken is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>
